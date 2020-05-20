@@ -1,0 +1,975 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/jbomh/source/repos/Azure/ApexDesignsSLDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/newtown.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/newtown.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/signup.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/signup.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/arrest/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/arrest/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/arrest/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/arrest/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citations/legalmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citations/legalmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citations/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citations/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citations/policemain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citations/policemain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/credentialsedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/credentialsedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/credentialsmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/credentialsmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/disabilityedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/disabilityedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/disabilitymain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/disabilitymain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/permitsedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/permitsedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/permitsmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/permitsmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/regedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/regedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/regmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/regmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/titlesedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/titlesedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/titlesmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/titlesmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/vehiclesmain.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/vehiclesmain.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/vehiclesnew.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/vehiclesnew.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/active.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/active.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/archive.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/archive.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/closed.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/closed.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/dispatch/statusmenu.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/dispatch/statusmenu.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/leavetown.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/leavetown.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/profile/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/profile/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/profile/settings.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/profile/settings.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/proster/edit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/proster/edit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/proster/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/proster/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/reports/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/reports/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/reports/move.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/reports/move.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/reports/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/reports/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/reports/transfer.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/reports/transfer.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/request.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/request.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/selecttown.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/selecttown.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsgroups/mainselected.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsgroups/mainselected.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsgroups/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsgroups/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsgroups/permissions.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsgroups/permissions.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingslaws/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingslaws/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingslaws/newedit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingslaws/newedit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsreports/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsreports/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsreports/open.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsreports/open.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsusers/add.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsusers/add.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsusers/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsusers/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/settingsusers/selected.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/settingsusers/selected.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/templatesbuilder/mainscreen.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/templatesbuilder/mainscreen.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/templatesbuilder/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/templatesbuilder/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/templatesbuilder/open.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/templatesbuilder/open.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/templatesbuilder/selectedlayer.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/templatesbuilder/selectedlayer.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/towncontrol.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/towncontrol.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/townmenu.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/townmenu.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/usermenu.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/usermenu.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/vroster/edit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/vroster/edit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/vroster/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/vroster/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/vroster/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/vroster/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/warrants/edit.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/warrants/edit.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/warrants/main.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/warrants/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/warrants/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/warrants/new.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ywtR0ibaJlJy+9IE4f/VEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "radionetwork/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "radionetwork/intro.html",
+          "hash": "a/05xqGNgBrd9zkXprKF1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "radionetwork/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "radionetwork/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "HtLBV9gIIg4kLjjUOBiI5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/arrest.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/arrest.html",
+          "hash": "jcEAgY7u159vH0qD8PoY8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/citations.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/citations.html",
+          "hash": "6yUqXPZAqVCKI40zmTcyHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/citizens.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/citizens.html",
+          "hash": "q60jArFVCes/UEZXhzOU0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/createtown.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/createtown.html",
+          "hash": "qGA1Oa2mRVsfMDIs6EsNrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/dispatch.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/dispatch.html",
+          "hash": "N9cfwT+L/swtR7plt7tfIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/groups.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/groups.html",
+          "hash": "lq0Rib8D7pD7J+tdlBBq/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/intro.html",
+          "hash": "udzdOjJYYLcnODF48wdaiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/laws.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/laws.html",
+          "hash": "ZTKOex0jJZwZiYLYRouEtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/proster.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/proster.html",
+          "hash": "/MkTBTVrDxCfT2elh9rAGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/reportbuilder.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/reportbuilder.html",
+          "hash": "JivVhZuJsgO4xkAJj19HkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/reports.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/reports.html",
+          "hash": "MJkQW767cMiYFg8zWsuZAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "invalid-image"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/templates.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/templates.html",
+          "hash": "VsCEOYdDkVZAs97WO0nSSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "towncontrol/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/toc.html",
+          "hash": "tRkmydFfvvICP3S6UgoGYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "invalid-note-section"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/users.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/users.html",
+          "hash": "+WpXB7AcSjYHB2gFfG751Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/vroster.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/vroster.html",
+          "hash": "ZAdSV4yhPDSKcnw8x5P6fA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/warrants.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/warrants.html",
+          "hash": "mbIytn2AP/7Nr/6osU2uSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 17,
+          "skipped_file_count": 2
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79027581-7A1B-4128-A146-5967EA20CCCF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ApexDesignsSLDocs</RootNamespace>
+    <AssemblyName>ApexDesignsSLDocs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="radionetwork\intro.md" />
+    <None Include="radionetwork\toc.md" />
+    <None Include="docfx.json" />
+    <None Include="index.md" />
+    <None Include="packages.config" />
+    <None Include="templates\material\partials\footer.tmpl.partial" />
+    <None Include="templates\material\partials\head.tmpl.partial" />
+    <None Include="templates\material\partials\logo.tmpl.partial" />
+    <None Include="toc.yml" />
+    <None Include="towncontrol\intro.md" />
+    <None Include="towncontrol\toc.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\towncontrol\arrest\main.jpg" />
+    <Content Include="images\towncontrol\arrest\new.jpg" />
+    <Content Include="images\towncontrol\citations\legalmain.jpg" />
+    <Content Include="images\towncontrol\citations\new.jpg" />
+    <Content Include="images\towncontrol\citations\policemain.jpg" />
+    <Content Include="images\towncontrol\citizens\credentialsedit.jpg" />
+    <Content Include="images\towncontrol\citizens\credentialsmain.jpg" />
+    <Content Include="images\towncontrol\citizens\disabilityedit.jpg" />
+    <Content Include="images\towncontrol\citizens\disabilitymain.jpg" />
+    <Content Include="images\towncontrol\citizens\main.jpg" />
+    <Content Include="images\towncontrol\citizens\permitsedit.jpg" />
+    <Content Include="images\towncontrol\citizens\permitsmain.jpg" />
+    <Content Include="images\towncontrol\citizens\regedit.jpg" />
+    <Content Include="images\towncontrol\citizens\regmain.jpg" />
+    <Content Include="images\towncontrol\citizens\titlesedit.jpg" />
+    <Content Include="images\towncontrol\citizens\titlesmain.jpg" />
+    <Content Include="images\towncontrol\citizens\vehiclesmain.jpg" />
+    <Content Include="images\towncontrol\citizens\vehiclesnew.jpg" />
+    <Content Include="images\towncontrol\dispatch\active.jpg" />
+    <Content Include="images\towncontrol\dispatch\archive.jpg" />
+    <Content Include="images\towncontrol\dispatch\closed.jpg" />
+    <Content Include="images\towncontrol\dispatch\main.jpg" />
+    <Content Include="images\towncontrol\dispatch\new.jpg" />
+    <Content Include="images\towncontrol\dispatch\statusmenu.jpg" />
+    <Content Include="images\towncontrol\leavetown.jpg" />
+    <Content Include="images\towncontrol\profile\main.jpg" />
+    <Content Include="images\towncontrol\profile\settings.jpg" />
+    <Content Include="images\towncontrol\proster\edit.jpg" />
+    <Content Include="images\towncontrol\proster\main.jpg" />
+    <Content Include="images\towncontrol\reports\main.jpg" />
+    <Content Include="images\towncontrol\reports\move.jpg" />
+    <Content Include="images\towncontrol\reports\new.jpg" />
+    <Content Include="images\towncontrol\reports\transfer.jpg" />
+    <Content Include="images\towncontrol\request.jpg" />
+    <Content Include="images\towncontrol\selecttown.jpg" />
+    <Content Include="images\towncontrol\settingsgroups\mainselected.jpg" />
+    <Content Include="images\towncontrol\settingsgroups\new.jpg" />
+    <Content Include="images\towncontrol\settingsgroups\permissions.jpg" />
+    <Content Include="images\towncontrol\settingslaws\main.jpg" />
+    <Content Include="images\towncontrol\settingslaws\newedit.jpg" />
+    <Content Include="images\towncontrol\settingsreports\main.jpg" />
+    <Content Include="images\towncontrol\settingsreports\open.jpg" />
+    <Content Include="images\towncontrol\settingsusers\add.jpg" />
+    <Content Include="images\towncontrol\settingsusers\main.jpg" />
+    <Content Include="images\towncontrol\settingsusers\selected.jpg" />
+    <Content Include="images\towncontrol\templatesbuilder\mainscreen.jpg" />
+    <Content Include="images\towncontrol\templatesbuilder\new.jpg" />
+    <Content Include="images\towncontrol\templatesbuilder\open.jpg" />
+    <Content Include="images\towncontrol\templatesbuilder\selectedlayer.jpg" />
+    <Content Include="images\towncontrol\towncontrol.jpg" />
+    <Content Include="images\towncontrol\townmenu.jpg" />
+    <Content Include="images\towncontrol\usermenu.jpg" />
+    <Content Include="images\towncontrol\vroster\edit.jpg" />
+    <Content Include="images\towncontrol\vroster\main.jpg" />
+    <Content Include="images\towncontrol\vroster\new.jpg" />
+    <Content Include="images\towncontrol\warrants\edit.jpg" />
+    <Content Include="images\towncontrol\warrants\main.jpg" />
+    <Content Include="images\towncontrol\warrants\new.jpg" />
+    <Content Include="templates\material\logo.svg" />
+    <Content Include="templates\material\styles\main.css" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\docfx.console.2.53.1\build\docfx.console.targets" Condition="Exists('packages\docfx.console.2.53.1\build\docfx.console.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\docfx.console.2.53.1\build\docfx.console.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\docfx.console.2.53.1\build\docfx.console.targets'))" />
+  </Target>
+</Project>
