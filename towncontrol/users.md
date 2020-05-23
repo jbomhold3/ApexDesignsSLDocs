@@ -9,16 +9,16 @@ author: John Bomhold
 ## Adding a user.
 There are two ways for a user to be added to your town. Using the new user search or accepting access requests(not shown above).
 
-To add a user enter there Username, SLUsername, or UUID then hit enter. Click add besides the correct user.
+To add a user, enter there Username, SLUsername or UUID then hit enter. Click add besides the correct user.
 
 ## Editing Users
 
-Clicking the edit icon next to user will replace the new column with the groups assigned to that user.
+Clicking the edit icon next to the user will replace the new column with the groups assigned to that user.
 
 :::image type="content" source="../images/towncontrol/settingsusers/selected.jpg" alt-text="Selected user":::
 
 You can add or remove groups from here. 
->[!NOTE] A user with no group will have no abilities users are given no >groups be default.
+>[!NOTE] A user with no group will have no abilities. Users are given no >groups by default.
 
 :::row:::
     :::column:::
@@ -33,9 +33,9 @@ You can add or remove groups from here.
 :::row-end:::
 
 ## Locking a user.
-Clicking the lock icon will send the user back to the select town screen. They will not be able to enter your town until unlocked. Locked users have a orange background.
+Clicking the lock icon will send the user back to the select town screen. They will not be able to enter your town until unlocked. Locked users have an orange background.
 
 ## Removing Users or Groups from users.
-To remove a user or group from a user simple click the trash icon.
+To remove a user or group from a user, simply click the trash icon.
 
 [Creating Templates](templates.md)

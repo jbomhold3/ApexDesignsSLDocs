@@ -93,6 +93,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/PrintResults.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/PrintResults.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/towncontrol/citizens/credentialsedit.jpg",
       "output": {
         "resource": {
@@ -680,10 +691,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "ywtR0ibaJlJy+9IE4f/VEw=="
+          "hash": "5TAiWEwvRgj+ETygN0lBPA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -695,7 +706,7 @@
           "hash": "C2WKiwpDrLEt5Hajx76zig=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -728,7 +739,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/arrest.html",
-          "hash": "jcEAgY7u159vH0qD8PoY8A=="
+          "hash": "mMxRPBkOMgHS9xni9A+etA=="
         }
       },
       "is_incremental": true,
@@ -740,7 +751,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/citations.html",
-          "hash": "6yUqXPZAqVCKI40zmTcyHw=="
+          "hash": "f2hfByGrmUf85oH82NGR8Q=="
         }
       },
       "is_incremental": true,
@@ -752,10 +763,10 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/citizens.html",
-          "hash": "q60jArFVCes/UEZXhzOU0w=="
+          "hash": "PA0RunIjGPDwEO63/FiUnQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -764,7 +775,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/createtown.html",
-          "hash": "qGA1Oa2mRVsfMDIs6EsNrQ=="
+          "hash": "DRYjqok/76YxByHqNWxmrQ=="
         }
       },
       "is_incremental": true,
@@ -776,7 +787,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/dispatch.html",
-          "hash": "N9cfwT+L/swtR7plt7tfIg=="
+          "hash": "kRnbOLzOb/ivFt2+r0SKyw=="
         }
       },
       "is_incremental": true,
@@ -788,7 +799,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/groups.html",
-          "hash": "lq0Rib8D7pD7J+tdlBBq/A=="
+          "hash": "LHzX9FRK2Er0DpWbi//ytA=="
         }
       },
       "is_incremental": true,
@@ -800,7 +811,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/intro.html",
-          "hash": "udzdOjJYYLcnODF48wdaiQ=="
+          "hash": "PIrBemseST9j61N8Gkevuw=="
         }
       },
       "is_incremental": true,
@@ -812,7 +823,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/laws.html",
-          "hash": "ZTKOex0jJZwZiYLYRouEtA=="
+          "hash": "OewgHEpYYEjhp84jryVayA=="
         }
       },
       "is_incremental": true,
@@ -824,7 +835,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/proster.html",
-          "hash": "/MkTBTVrDxCfT2elh9rAGQ=="
+          "hash": "7+ORimpuW6tBbHZaYUmIoQ=="
         }
       },
       "is_incremental": true,
@@ -836,7 +847,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/reportbuilder.html",
-          "hash": "JivVhZuJsgO4xkAJj19HkQ=="
+          "hash": "QHx0o4PNDyKX9O6kfZYDJg=="
         }
       },
       "is_incremental": true,
@@ -848,7 +859,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/reports.html",
-          "hash": "MJkQW767cMiYFg8zWsuZAA=="
+          "hash": "0rxVzSh3g2GbC0tJ5Dk0xw=="
         }
       },
       "is_incremental": true,
@@ -863,7 +874,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/templates.html",
-          "hash": "VsCEOYdDkVZAs97WO0nSSg=="
+          "hash": "+SFKLHufIdI08wbXkRU3qQ=="
         }
       },
       "is_incremental": true,
@@ -890,7 +901,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/users.html",
-          "hash": "+WpXB7AcSjYHB2gFfG751Q=="
+          "hash": "6UL3ZPDtVPeqGepwcccoag=="
         }
       },
       "is_incremental": true,
@@ -902,7 +913,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/vroster.html",
-          "hash": "ZAdSV4yhPDSKcnw8x5P6fA=="
+          "hash": "SlzpqBOl2C0r3j/HDZgBgA=="
         }
       },
       "is_incremental": true,
@@ -914,7 +925,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/warrants.html",
-          "hash": "mbIytn2AP/7Nr/6osU2uSQ=="
+          "hash": "n5+bLyVgm1aymcjcGN49Uw=="
         }
       },
       "is_incremental": true,

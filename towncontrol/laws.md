@@ -8,7 +8,7 @@ author: John Bomhold
 :::image type="content" source="../images/towncontrol/settingslaws/main.jpg" alt-text="Laws":::
 
 >[!NOTE]
-For increased performance laws are limited to 25 per page.
+For increased performance, laws are limited to 25 per page.
 
 ## Creating Laws
 :::row:::

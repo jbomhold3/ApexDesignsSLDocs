@@ -8,7 +8,7 @@ author: John Bomhold
 :::image type="content" source="../images/towncontrol/settingsgroups/mainselected.jpg" alt-text="Groups":::
 
 ## Static Groups
-With TownControl V4 we are introducing new static groups. These are quick helpers to get you start with basic tasks. The following is a list of static groups and their abilities.
+With TownControl V4, we are introducing new static groups. These are quick helpers to get you to start with basic tasks. The following is a list of static groups and their abilities.
 >[!NOTE]
 >Static groups can not be deleted.
 
@@ -20,11 +20,11 @@ With TownControl V4 we are introducing new static groups. These are quick helper
 
 ## Creating a group
 
-Click New under the groups label.
+Click New under the group's label.
 
 :::image type="content" source="../images/towncontrol/settingsgroups/new.jpg" alt-text="New Group":::
 
-Enter your the name of the group and select create.
+Enter you're the name of the group and select create.
 
 >[!WARNING]
 >Group names cannot be changed if you need to rename a group delete it and add a new one.
@@ -50,9 +50,9 @@ Click the edit icon under beside the group you would like to change.
     :::column-end:::
 :::row-end:::
 
-To change a permission simple toggle the ability you would like to change. These abilities toggle in real time. If user is currently in an area and you toggle read they will be sent back to the landing page.
+To change permissions toggle the ability, you would like to change. These abilities toggle in real-time. If the user is currently in an area and you toggle read, they will be sent back to the landing page.
 
 ## Removing Groups or Permissions
-To remove a group or permission simple click the trash icon.
+To remove a group or permission click the trash icon.
 
 [Adding users to groups](users.md)

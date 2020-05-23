@@ -5,7 +5,7 @@ author: John Bomhold
 ---
 
 # Creating a Town
-This article assumes you have completed all the steps listed in the getting started article.
+This article assumes you have completed all the steps listed in the getting started section.
 
 ## Your first town
 :::row:::

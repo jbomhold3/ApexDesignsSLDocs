@@ -8,21 +8,23 @@ author: John Bomhold
 :::image type="content" source="../images/towncontrol/citations/policemain.jpg" alt-text="Main":::
 
 ## Introduction 
-Introduce in Version 1. Citations give towns ability to issue and track citations. Version 4 does not change this area much. We did a little reorganization on the form to make it flw better. Charges have also changed to accept an unlimited amount from the static three in before, We have also added a narrative field for them highly requested.Citations are shared between legal and police however each section has different abilities.
+Police Citations were introduced in Version 1. Police Citations give towns the ability to issue and track citations. Version 4 does not change this area much. We did a little reorganization on the form to make it flow better. Charges have also updated to accept an unlimited amount from the static three in before.
+
+Additionally, we added a narrative field for them. This feature was highly requested. Citations are shared between legal and police. However, each section has different abilities.
 
 ## Creating a record Police/Legal.
-Click the new icon at the right of the screen. Use the citizen search to pre-fill data or type it in yourself. Input any information required prior to hitting submit stand near the person your issuing the citation to in world and attach the police tablet then click submit. This will give the person in world an option to sign, pay, or refuse to sign the citation.
+Click the new icon at the right of the screen. Use the citizen search to pre-fill data or type it in yourself. Input any information required before hitting submit stand near the person you're issuing the citation to in Second Life and attach the police tablet, then click submit the form. Doing so will give the person in Second Life an option to sign, pay, or refuse to sign the citation.
 
 :::image type="content" source="../images/towncontrol/citations/new.jpg" alt-text="Edit":::
 
 ## Editing a record Police/Legal.
-If you have the ability click the edit icon. Update the data as required and hit submit.
+Users with the ability can click the edit icon. Update the data as required and hit submit.
 
 ## Deleting a record.
-If you have the ability click the trash icon to delete.
+Users with the ability can click the trash icon to delete.
 
 ## Mark as paid Legal Only
-Click the cash icon and the citation will be marked as paid.
+Users with the ability can click the cash icon. Doing so will mark the citation as paid.
 
 :::image type="content" source="../images/towncontrol/citations/legalmain.jpg" alt-text="Main":::
 
