@@ -7,20 +7,19 @@ author: John Bomhold
 
 :::image type="content" source="../images/towncontrol/citizens/main.jpg" alt-text="Main":::
 Shown above is the citizen's page with a selected citizen.
+
 ## Introduction 
-TownControl V4 uses a unified social registration system. Each citizen in the system has a shared social registration record, and a private Town Registration record. The social registration record is kept in sync by towns updating the user information. Each town can accept, deny, or report changes and will only be allied to their town if accepted. If you deny a request, your town will be treated as out of sync, and your changes to the citizen's name will not be tracked globally. If a report is filed for inappropriate, an admin will review it and revert the change if needed.
+TownControl uses a unified social registration system. Each citizen in the system has a shared social registration record, and a private Town Registration record. The citizens page is filtered between citizens and companies.
 
 ## Creating a Town Registration
-When you first land on the new citizen's page, you are only given a search box. This helps prevent duplicate data from being entered. If the person was found in the social registration records, you should click the record to create your Town Registration. If they are not found, you will be creating both the Social Registration Record and Town Registration record at the same time the SRN number will appear blank and fill once created. If you choose a company, a Social Registration will not be created. Enter all fields and click save. 
+To create a new citizen click the new button. Follow the steps on screen. Social Registration must be searched to ensure no unnecessary duplicate data is entered into the system. Enter all requested fields and click save.
+:::image type="content" source="../images/towncontrol/citizens/new.jpg" alt-text="Vehicles":::
 
 ## Editing a Town Registration
-Follow the steps above this time your record will state found in Town Registration click it and make the changes as required. Then click Save.
-
-## Selecting a Town Registration
-Do the same as the above search for the person you wish to select and click the Found in Town Registration link. This time leave the record untouched. You will see a new sidebar as soon as you select a Town Registration record. If you wish to select a different person, click close.
+Simply click the edit icon in the list. It will redirect you to the users record.
 
 ## Vehicles
-Vehicles are new to TownControl V4; this is a list of vehicles the selected Town Registration owns. Mainly for added realism, it useful to pre-fill Vehicle Registrations later on. However, this area is not required. VIN is generated automatically.
+This is a list of vehicles the selected Town Registration owns. Mainly for added realism, it useful to pre-fill Vehicle Registrations later on. However, this area is not required. VIN is generated automatically.
 
 :::image type="content" source="../images/towncontrol/citizens/vehiclesmain.jpg" alt-text="Vehicles":::
 

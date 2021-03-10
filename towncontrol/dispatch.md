@@ -49,4 +49,4 @@ Right-click the assigned unit, under the incident, you can select its new status
 Right click the unit status you wish to update and set the status to whatever you like.
 
 ## Chat 
-Chat accepts slash commands for the frequency it transmits on. You can also select it from the dropdown list, which will be the default channel chat transmits on. When you first enter, the dashboard chat messages will default to Web-only.
+You can select a Radio Network Channel from the dropdown list, which will be the default channel chat transmits on. When you first enter the dashboard, the chat messages will default to Web-only.

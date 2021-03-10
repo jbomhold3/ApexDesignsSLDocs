@@ -1,8 +1,19 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/jbomh/source/repos/Azure/ApexDesignsSLDocs",
+  "source_base_path": "D:/source/repos/Azure/ApexDesignsSLDocs",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "images/icons/city-solid.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/icons/city-solid.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
     {
       "type": "Resource",
       "source_relative_path": "images/logo.svg",
@@ -20,6 +31,17 @@
       "output": {
         "resource": {
           "relative_path": "images/newtown.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/radionetwork/channels.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/radionetwork/channels.jpg"
         }
       },
       "is_incremental": false,
@@ -152,6 +174,17 @@
       "output": {
         "resource": {
           "relative_path": "images/towncontrol/citizens/main.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/towncontrol/citizens/new.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/towncontrol/citizens/new.jpg"
         }
       },
       "is_incremental": false,
@@ -691,7 +724,31 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "5TAiWEwvRgj+ETygN0lBPA=="
+          "hash": "//0qd2cYZ1g5S8eJd9IMVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "radionetwork/createnetwork.md",
+      "output": {
+        ".html": {
+          "relative_path": "radionetwork/createnetwork.html",
+          "hash": "NWeiXXLSVPyNsjL0CY71eQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "radionetwork/groups.md",
+      "output": {
+        ".html": {
+          "relative_path": "radionetwork/groups.html",
+          "hash": "cajcrJ2L2t/baHfKaNk+zw=="
         }
       },
       "is_incremental": true,
@@ -703,7 +760,7 @@
       "output": {
         ".html": {
           "relative_path": "radionetwork/intro.html",
-          "hash": "C2WKiwpDrLEt5Hajx76zig=="
+          "hash": "nKlDViSCmg3rBFmiA9GCSg=="
         }
       },
       "is_incremental": true,
@@ -722,6 +779,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "invalid-note-section"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "radionetwork/users.md",
+      "output": {
+        ".html": {
+          "relative_path": "radionetwork/users.html",
+          "hash": "p1s0acLSuMncYoYHnO/8gg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
@@ -735,11 +807,47 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "towncontrol/additionalgenders.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/additionalgenders.html",
+          "hash": "Ue0EsHCQpbOePRMmn2EHkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "towncontrol/arrest.md",
       "output": {
         ".html": {
           "relative_path": "towncontrol/arrest.html",
-          "hash": "mMxRPBkOMgHS9xni9A+etA=="
+          "hash": "BchbHjgBW4XpqRg3VfOuVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/botlo.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/botlo.html",
+          "hash": "ZpHzlVxCqjKvvWzn/oC/Yw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/bugs.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/bugs.html",
+          "hash": "h2wV3omtIqyUdUuXHRKJeA=="
         }
       },
       "is_incremental": true,
@@ -751,7 +859,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/citations.html",
-          "hash": "f2hfByGrmUf85oH82NGR8Q=="
+          "hash": "lQeakquiwsaArSOlGt3tdQ=="
         }
       },
       "is_incremental": true,
@@ -763,10 +871,10 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/citizens.html",
-          "hash": "PA0RunIjGPDwEO63/FiUnQ=="
+          "hash": "ichz4wguMXiu0FFehOg0sw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -775,7 +883,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/createtown.html",
-          "hash": "DRYjqok/76YxByHqNWxmrQ=="
+          "hash": "vE2VEuL62id73hM35vcHYA=="
         }
       },
       "is_incremental": true,
@@ -787,7 +895,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/dispatch.html",
-          "hash": "kRnbOLzOb/ivFt2+r0SKyw=="
+          "hash": "+zjrN5Go5+3Psq6iLfYLZA=="
         }
       },
       "is_incremental": true,
@@ -799,7 +907,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/groups.html",
-          "hash": "LHzX9FRK2Er0DpWbi//ytA=="
+          "hash": "zM8L+jZdDM5admKt9KxxPQ=="
         }
       },
       "is_incremental": true,
@@ -811,7 +919,19 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/intro.html",
-          "hash": "PIrBemseST9j61N8Gkevuw=="
+          "hash": "ae969m6iyV+uJ5P+y0fYMA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "towncontrol/kanban.md",
+      "output": {
+        ".html": {
+          "relative_path": "towncontrol/kanban.html",
+          "hash": "mOv1HBJRkA9z1LWMTuBvzQ=="
         }
       },
       "is_incremental": true,
@@ -823,7 +943,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/laws.html",
-          "hash": "OewgHEpYYEjhp84jryVayA=="
+          "hash": "7gZ+DHkvD+Jp53F7b4EXyw=="
         }
       },
       "is_incremental": true,
@@ -835,7 +955,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/proster.html",
-          "hash": "7+ORimpuW6tBbHZaYUmIoQ=="
+          "hash": "vUS1QeXEGDf5NVtVz1OHng=="
         }
       },
       "is_incremental": true,
@@ -847,7 +967,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/reportbuilder.html",
-          "hash": "QHx0o4PNDyKX9O6kfZYDJg=="
+          "hash": "OUi3utL6XVep1NggBe07Ww=="
         }
       },
       "is_incremental": true,
@@ -859,25 +979,22 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/reports.html",
-          "hash": "0rxVzSh3g2GbC0tJ5Dk0xw=="
+          "hash": "YNuTRfkCsUkRHBfmPB4y8A=="
         }
       },
       "is_incremental": true,
       "version": ""
     },
     {
-      "log_codes": [
-        "invalid-image"
-      ],
       "type": "Conceptual",
       "source_relative_path": "towncontrol/templates.md",
       "output": {
         ".html": {
           "relative_path": "towncontrol/templates.html",
-          "hash": "+SFKLHufIdI08wbXkRU3qQ=="
+          "hash": "ZslVw6bp0gQ7TTntVOQvMQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -886,7 +1003,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/toc.html",
-          "hash": "tRkmydFfvvICP3S6UgoGYg=="
+          "hash": "1QrdmNdI3a7SaSlPsfFwkA=="
         }
       },
       "is_incremental": false,
@@ -901,10 +1018,10 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/users.html",
-          "hash": "6UL3ZPDtVPeqGepwcccoag=="
+          "hash": "qUzRoq8J1yyGSD1qsFMiDQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -913,7 +1030,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/vroster.html",
-          "hash": "SlzpqBOl2C0r3j/HDZgBgA=="
+          "hash": "8SAe2jVbc6R3HVSChinBdw=="
         }
       },
       "is_incremental": true,
@@ -925,7 +1042,7 @@
       "output": {
         ".html": {
           "relative_path": "towncontrol/warrants.html",
-          "hash": "n5+bLyVgm1aymcjcGN49Uw=="
+          "hash": "gFwbDsDAtNzL5eTQzhoChg=="
         }
       },
       "is_incremental": true,
@@ -944,8 +1061,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 17,
-          "skipped_file_count": 16
+          "total_file_count": 24,
+          "skipped_file_count": 23
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

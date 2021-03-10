@@ -33,7 +33,7 @@ On the right, you have a background file. Under that is the layer options. The e
 ## Creating a template
 Clicking the file icon at the top left will bring up this dialog.
 
-:::image type="content" source="../images/towncontrol/templatesbuilder/new.jpg" alt-text="":::
+:::image type="content" source="../images/towncontrol/templatesbuilder/new.jpg" alt-text="new":::
 Select the template you wish to create. 
 >[!NOTE]
 >As of TownControl V4 by default templates, all templates but generic are pre-filled with the default layers. Generic templates are used for Disability Placards and Vehicle Titles.

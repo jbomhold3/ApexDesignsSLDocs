@@ -8,7 +8,7 @@ author: John Bomhold
 :::image type="content" source="../images/towncontrol/warrants/main.jpg" alt-text="Main":::
 
 ## Introduction 
-Introduce in Version 2. Warrants give towns the ability to issue a warrant for someone's arrest across all towns if selected. Version 4 does not change this area much. However, it does change the way case numbers are generated. We now use the YYYYMMDD-## format for case numbers. Case numbers are in UTC time. The number part of the case number will reset to 01 at the end of each day. Warrants now show only active cases. Old warrants can be looked at under the soon to come criminal records.
+Introduce in Version 2. Warrants give towns the ability to issue a warrant for someone's arrest across all towns if selected. Black case numbers are generated for you. We now use the YYYYMMDD-## format for case numbers. Case numbers are in UTC time. The number part of the case number will reset to 01 at the end of each day. Warrants now show only active cases. Old warrants can be looked at under the soon to come criminal records.
 
 ## Creating a record.
 Click the new icon at the right of the screen. Use the citizen search to pre-fill data or type it in yourself. Input any information required and click submit.
@@ -24,4 +24,4 @@ If you have the ability, click the edit icon. You can not change the original co
 Users with the ability, click the trash icon to delete.
 
 ## Print Warrant
-N/A At this time. This feature is being improved to accept a custom template.
+Opens the warrant in a public link. You can then save it as an image if you wish.

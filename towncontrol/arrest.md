@@ -8,7 +8,7 @@ author: John Bomhold
 :::image type="content" source="../images/towncontrol/arrest/main.jpg" alt-text="Main":::
 
 ## Introduction 
-Version 4 is introducing an Arrest section. Arrests will give towns the ability to track inmates. Arrests are shared between legal and police. When you're viewing them from the Legal section, you must have the correct Legal section permissions. When you're viewing them from the Police section, you must have the correct Police section permissions.
+Arrests will give towns the ability to track inmates. Arrests are shared between legal and police. When you're viewing them from the Legal section, you must have the correct Legal section permissions. When you're viewing them from the Police section, you must have the correct Police section permissions.
 
 ## Creating a record
 Click the new icon at the right of the screen. Use the citizen search to pre-fill data or type it in yourself. Input any information required and hitting submit

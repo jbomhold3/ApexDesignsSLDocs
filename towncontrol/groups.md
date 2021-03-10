@@ -7,10 +7,10 @@ author: John Bomhold
 
 :::image type="content" source="../images/towncontrol/settingsgroups/mainselected.jpg" alt-text="Groups":::
 
-## Static Groups
-With TownControl V4, we are introducing new static groups. These are quick helpers to get you to start with basic tasks. The following is a list of static groups and their abilities.
+## System Groups
+With TownControl V4, we are introducing new static groups. In version 5 these were renamed to system groups. They are quick helpers to get you to start with basic tasks. The following is a list of system groups and their abilities.
 >[!NOTE]
->Static groups can not be deleted.
+>system groups can not be deleted.
 
 **Administrator**
 > This group is automatically assigned to the town owner. Any user with this group will be able to read, write, update, and delete from ever section in your town.

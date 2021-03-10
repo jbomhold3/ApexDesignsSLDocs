@@ -10,18 +10,15 @@ This article assumes you have completed all the steps listed in the getting star
 ## Your first town
 :::row:::
     :::column:::
-        Click the town icon located in the Top right of the page. Then selected Create. 
+        Click the <i class="fas fa-city"></i> icon the select create.
         >[!NOTE]
-        >If for any reason you do not see the create option refresh. If the issue continues contact support.
-    :::column-end:::
-    :::column:::
-        :::image type="content" source="../images/towncontrol/townmenu.jpg" alt-text="Town Menu":::
+        >If for any reason you do not see the create option. Completely log out of the system and ensure you have dropped the "Town Control V5 Owner Registration (Rez Me)" in world. If the issue continues contact support.
     :::column-end:::
 :::row-end:::
 
 :::row:::
     :::column:::
-        All fields are required to complete the form. 
+        All fields are required to complete the form.
         > [!IMPORTANT]
         > If your town or city does not use one of the required fields simply enter N/A or 0 for the zip code. 
         
@@ -34,5 +31,8 @@ This article assumes you have completed all the steps listed in the getting star
 :::row-end:::
 
 Once created click the Enter button. Then goto settings groups.
+
+## Addons
+If you Own RadioNetwork you can active or create a network under the addons page. Activated Networks can be transmitted on inside of dispatch. To active a network simply click the play icon and it will be highlighted.
 
 [Setting up groups](groups.md)
